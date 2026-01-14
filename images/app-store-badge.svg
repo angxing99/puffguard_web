@@ -1,0 +1,13 @@
+<svg width="135" height="40" viewBox="0 0 135 40" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect width="135" height="40" rx="5" fill="#000000"/>
+    <g transform="translate(20, 9)">
+      <path d="M14.125 16.5c-.025-2.81 2.3-4.175 2.4-4.238-1.312-1.918-3.35-2.18-4.062-2.2-1.713-.18-3.362 1.025-4.238 1.025-.893 0-2.237-1.012-3.687-.98-1.875.03-3.625 1.112-4.587 2.8-1.975 3.425-.5 8.462 1.4 11.225.95 1.35 2.062 2.863 3.513 2.812 1.425-.062 1.95-.9 3.662-.9 1.7 0 2.188.9 3.675.863 1.525-.025 2.487-1.35 3.412-2.713 1.1-1.55 1.537-3.075 1.55-3.15-.037-.012-2.95-1.125-2.975-4.486z" fill="#FFFFFF"/>
+      <path d="M11.337 3.613c.775-.95 1.3-2.237 1.15-3.55-1.112.05-2.487.762-3.287 1.7-.713.825-1.35 2.175-1.187 3.438 1.262.087 2.537-.637 3.325-1.588z" fill="#FFFFFF"/>
+    </g>
+    <g fill="#FFFFFF">
+      <text x="38" y="15" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="10" font-weight="400">Download on the</text>
+      <text x="38" y="29" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="500">App Store</text>
+    </g>
+  </g>
+</svg>
